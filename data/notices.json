@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tip-001",
+    "title": "Plan for Weather and Monsoon Conditions",
+    "content": "Karnataka has varied climates across its coast, hills, and inland regions. Check local forecasts and road conditions before setting out, especially during monsoon periods.",
+    "category": "Travel Safety",
+    "priority": "Normal",
+    "target_audience": "All Travelers",
+    "posted_date": "2026-11-04",
+    "expiry_date": null,
+    "is_pinned": true,
+    "is_active": true
+  },
+  {
+    "id": "tip-002",
+    "title": "Respect Heritage Sites and Local Communities",
+    "content": "Follow site rules at heritage monuments, avoid touching or damaging structures, and respect local customs and community spaces.",
+    "category": "Responsible Travel",
+    "priority": "Normal",
+    "target_audience": "All Travelers",
+    "posted_date": "2026-11-04",
+    "expiry_date": null,
+    "is_pinned": true,
+    "is_active": true
+  },
+  {
+    "id": "tip-003",
+    "title": "Check Timings Before Visiting Attractions",
+    "content": "Opening hours, access rules, and ticket availability may change. Confirm current details with official attraction sources before your visit.",
+    "category": "Planning",
+    "priority": "Normal",
+    "target_audience": "All Travelers",
+    "posted_date": "2026-11-04",
+    "expiry_date": null,
+    "is_pinned": false,
+    "is_active": true
+  },
+  {
+    "id": "tip-004",
+    "title": "Keep Your Karnataka Trip Flexible",
+    "content": "Allow extra time for transfers and weather. Build an itinerary around nearby destinations rather than trying to cover too many places in one day.",
+    "category": "Trip Tips",
+    "priority": "Normal",
+    "target_audience": "All Travelers",
+    "posted_date": "2026-11-04",
+    "expiry_date": null,
+    "is_pinned": false,
+    "is_active": true
+  }
+]
